@@ -31,6 +31,13 @@ public class CropTest {
         assertTrue(testCrop.getCropId() == 1234);
     }
 
+    @Test
+    public void testSetCropId_1234() {
+        Crop testCrop = setupNewCrop();
+        testCrop.setCropId(1234);
+        assertTrue(testCrop.getCropId() == 123);
+    }
+
 
 
 
