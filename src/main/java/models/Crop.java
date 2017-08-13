@@ -83,15 +83,15 @@ public class Crop {
     public void setCropName(String cropName) {
         this.cropName = cropName;
     }
-//
-//    public String getCropDescription() {
-//        return cropDescription;
-//    }
-//
-//    public void setCropDescription(String cropDescription) {
-//        this.cropDescription = cropDescription;
-//    }
-//
+
+    public String getCropDescription() {
+        return cropDescription;
+    }
+
+    public void setCropDescription(String cropDescription) {
+        this.cropDescription = cropDescription;
+    }
+
 //    public String getCropFamily() {
 //        return cropFamily;
 //    }
