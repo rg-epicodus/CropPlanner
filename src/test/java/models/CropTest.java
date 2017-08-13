@@ -35,7 +35,7 @@ public class CropTest {
     public void testSetCropId_1234() {
         Crop testCrop = setupNewCrop();
         testCrop.setCropId(1234);
-        assertTrue(testCrop.getCropId() == 123);
+        assertTrue(testCrop.getCropId() == 1234);
     }
 
 
