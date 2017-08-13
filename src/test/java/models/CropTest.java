@@ -24,7 +24,12 @@ public class CropTest {
         assertEquals(true, testCrop instanceof Crop);
     }
 
-
+    @Test
+    public void testGetCropId_1234() {
+        Crop testCrop = setupNewCrop();
+        testCrop.setCropId(1234);
+        assertTrue(testCrop.getCropId() == 1234);
+    }
 
 
 
