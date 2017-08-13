@@ -19,11 +19,22 @@ public class CropTest {
     }
 
     @Test
-    public void name() throws Exception {
+    public void NewCropObjectGetsCorrectlyCreated_true() throws Exception{
+        Crop testCrop = setupNewCrop();
+        assertEquals(true, testCrop instanceof Crop);
     }
 
+
+
+
+
+
+
+
+
+
     //helpers
-    public Crop newCrop() {
+    public Crop setupNewCrop() {
         return new Crop("Cucumber");
     }
 
