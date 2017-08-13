@@ -76,213 +76,213 @@ public class Crop {
         this.cropId = cropId;
     }
 
-    public String getCropName() {
-        return cropName;
-    }
-
-    public void setCropName(String cropName) {
-        this.cropName = cropName;
-    }
-
-    public String getCropDescription() {
-        return cropDescription;
-    }
-
-    public void setCropDescription(String cropDescription) {
-        this.cropDescription = cropDescription;
-    }
-
-    public String getCropFamily() {
-        return cropFamily;
-    }
-
-    public void setCropFamily(String cropFamily) {
-        this.cropFamily = cropFamily;
-    }
-
-    public String getCropVariety() {
-        return cropVariety;
-    }
-
-    public void setCropVariety(String cropVariety) {
-        this.cropVariety = cropVariety;
-    }
-
-    public String getCropScientificName() {
-        return cropScientificName;
-    }
-
-    public void setCropScientificName(String cropScientificName) {
-        this.cropScientificName = cropScientificName;
-    }
-
-    public int getCropDaysToMaturity() {
-        return cropDaysToMaturity;
-    }
-
-    public void setCropDaysToMaturity(int cropDaysToMaturity) {
-        this.cropDaysToMaturity = cropDaysToMaturity;
-    }
-
-    public String getCropNotes() {
-        return cropNotes;
-    }
-
-    public void setCropNotes(String cropNotes) {
-        this.cropNotes = cropNotes;
-    }
-
-    public boolean isCropFrostHardy() {
-        return cropFrostHardy;
-    }
-
-    public void setCropFrostHardy(boolean cropFrostHardy) {
-        this.cropFrostHardy = cropFrostHardy;
-    }
-
-    public int getCropSpacingRowPerBed() {
-        return cropSpacingRowPerBed;
-    }
-
-    public void setCropSpacingRowPerBed(int cropSpacingRowPerBed) {
-        this.cropSpacingRowPerBed = cropSpacingRowPerBed;
-    }
-
-    public int getCropRowSpacing() {
-        return cropRowSpacing;
-    }
-
-    public void setCropRowSpacing(int cropRowSpacing) {
-        this.cropRowSpacing = cropRowSpacing;
-    }
-
-    public float getCropYieldPerLinearFoot() {
-        return cropYieldPerLinearFoot;
-    }
-
-    public void setCropYieldPerLinearFoot(float cropYieldPerLinearFoot) {
-        this.cropYieldPerLinearFoot = cropYieldPerLinearFoot;
-    }
-
-    public int getCropYieldPerWeek() {
-        return cropYieldPerWeek;
-    }
-
-    public void setCropYieldPerWeek(int cropYieldPerWeek) {
-        this.cropYieldPerWeek = cropYieldPerWeek;
-    }
-
-    public int getCropYieldNumberOfDays() {
-        return cropYieldNumberOfDays;
-    }
-
-    public void setCropYieldNumberOfDays(int cropYieldNumberOfDays) {
-        this.cropYieldNumberOfDays = cropYieldNumberOfDays;
-    }
-
-    public String getCropYieldUnit() {
-        return cropYieldUnit;
-    }
-
-    public void setCropYieldUnit(String cropYieldUnit) {
-        this.cropYieldUnit = cropYieldUnit;
-    }
-
-    public float getCropUnitValue() {
-        return cropUnitValue;
-    }
-
-    public void setCropUnitValue(float cropUnitValue) {
-        this.cropUnitValue = cropUnitValue;
-    }
-
-    public String getCropKeywords() {
-        return cropKeywords;
-    }
-
-    public void setCropKeywords(String cropKeywords) {
-        this.cropKeywords = cropKeywords;
-    }
-
-    public boolean isDirectSeed() {
-        return directSeed;
-    }
-
-    public void setDirectSeed(boolean directSeed) {
-        this.directSeed = directSeed;
-    }
-
-    public boolean isTransplant() {
-        return transplant;
-    }
-
-    public void setTransplant(boolean transplant) {
-        this.transplant = transplant;
-    }
-
-    public String getTraySize() {
-        return traySize;
-    }
-
-    public void setTraySize(String traySize) {
-        this.traySize = traySize;
-    }
-
-    public boolean isHeatMatRequired() {
-        return heatMatRequired;
-    }
-
-    public void setHeatMatRequired(boolean heatMatRequired) {
-        this.heatMatRequired = heatMatRequired;
-    }
-
-    public int getHeatMatTemp() {
-        return heatMatTemp;
-    }
-
-    public void setHeatMatTemp(int heatMatTemp) {
-        this.heatMatTemp = heatMatTemp;
-    }
-
-    public boolean isPotMoveOnUp() {
-        return potMoveOnUp;
-    }
-
-    public void setPotMoveOnUp(boolean potMoveOnUp) {
-        this.potMoveOnUp = potMoveOnUp;
-    }
-
-    public int getSeedsPerUnit() {
-        return seedsPerUnit;
-    }
-
-    public void setSeedsPerUnit(int seedsPerUnit) {
-        this.seedsPerUnit = seedsPerUnit;
-    }
-
-    public float getSeedsPerDirectFoot() {
-        return seedsPerDirectFoot;
-    }
-
-    public void setSeedsPerDirectFoot(float seedsPerDirectFoot) {
-        this.seedsPerDirectFoot = seedsPerDirectFoot;
-    }
-
-    public float getSeedPerTray() {
-        return seedPerTray;
-    }
-
-    public void setSeedPerTray(float seedPerTray) {
-        this.seedPerTray = seedPerTray;
-    }
-
-    public String getSeedUnit() {
-        return seedUnit;
-    }
-
-    public void setSeedUnit(String seedUnit) {
-        this.seedUnit = seedUnit;
-    }
+//    public String getCropName() {
+//        return cropName;
+//    }
+//
+//    public void setCropName(String cropName) {
+//        this.cropName = cropName;
+//    }
+//
+//    public String getCropDescription() {
+//        return cropDescription;
+//    }
+//
+//    public void setCropDescription(String cropDescription) {
+//        this.cropDescription = cropDescription;
+//    }
+//
+//    public String getCropFamily() {
+//        return cropFamily;
+//    }
+//
+//    public void setCropFamily(String cropFamily) {
+//        this.cropFamily = cropFamily;
+//    }
+//
+//    public String getCropVariety() {
+//        return cropVariety;
+//    }
+//
+//    public void setCropVariety(String cropVariety) {
+//        this.cropVariety = cropVariety;
+//    }
+//
+//    public String getCropScientificName() {
+//        return cropScientificName;
+//    }
+//
+//    public void setCropScientificName(String cropScientificName) {
+//        this.cropScientificName = cropScientificName;
+//    }
+//
+//    public int getCropDaysToMaturity() {
+//        return cropDaysToMaturity;
+//    }
+//
+//    public void setCropDaysToMaturity(int cropDaysToMaturity) {
+//        this.cropDaysToMaturity = cropDaysToMaturity;
+//    }
+//
+//    public String getCropNotes() {
+//        return cropNotes;
+//    }
+//
+//    public void setCropNotes(String cropNotes) {
+//        this.cropNotes = cropNotes;
+//    }
+//
+//    public boolean isCropFrostHardy() {
+//        return cropFrostHardy;
+//    }
+//
+//    public void setCropFrostHardy(boolean cropFrostHardy) {
+//        this.cropFrostHardy = cropFrostHardy;
+//    }
+//
+//    public int getCropSpacingRowPerBed() {
+//        return cropSpacingRowPerBed;
+//    }
+//
+//    public void setCropSpacingRowPerBed(int cropSpacingRowPerBed) {
+//        this.cropSpacingRowPerBed = cropSpacingRowPerBed;
+//    }
+//
+//    public int getCropRowSpacing() {
+//        return cropRowSpacing;
+//    }
+//
+//    public void setCropRowSpacing(int cropRowSpacing) {
+//        this.cropRowSpacing = cropRowSpacing;
+//    }
+//
+//    public float getCropYieldPerLinearFoot() {
+//        return cropYieldPerLinearFoot;
+//    }
+//
+//    public void setCropYieldPerLinearFoot(float cropYieldPerLinearFoot) {
+//        this.cropYieldPerLinearFoot = cropYieldPerLinearFoot;
+//    }
+//
+//    public int getCropYieldPerWeek() {
+//        return cropYieldPerWeek;
+//    }
+//
+//    public void setCropYieldPerWeek(int cropYieldPerWeek) {
+//        this.cropYieldPerWeek = cropYieldPerWeek;
+//    }
+//
+//    public int getCropYieldNumberOfDays() {
+//        return cropYieldNumberOfDays;
+//    }
+//
+//    public void setCropYieldNumberOfDays(int cropYieldNumberOfDays) {
+//        this.cropYieldNumberOfDays = cropYieldNumberOfDays;
+//    }
+//
+//    public String getCropYieldUnit() {
+//        return cropYieldUnit;
+//    }
+//
+//    public void setCropYieldUnit(String cropYieldUnit) {
+//        this.cropYieldUnit = cropYieldUnit;
+//    }
+//
+//    public float getCropUnitValue() {
+//        return cropUnitValue;
+//    }
+//
+//    public void setCropUnitValue(float cropUnitValue) {
+//        this.cropUnitValue = cropUnitValue;
+//    }
+//
+//    public String getCropKeywords() {
+//        return cropKeywords;
+//    }
+//
+//    public void setCropKeywords(String cropKeywords) {
+//        this.cropKeywords = cropKeywords;
+//    }
+//
+//    public boolean isDirectSeed() {
+//        return directSeed;
+//    }
+//
+//    public void setDirectSeed(boolean directSeed) {
+//        this.directSeed = directSeed;
+//    }
+//
+//    public boolean isTransplant() {
+//        return transplant;
+//    }
+//
+//    public void setTransplant(boolean transplant) {
+//        this.transplant = transplant;
+//    }
+//
+//    public String getTraySize() {
+//        return traySize;
+//    }
+//
+//    public void setTraySize(String traySize) {
+//        this.traySize = traySize;
+//    }
+//
+//    public boolean isHeatMatRequired() {
+//        return heatMatRequired;
+//    }
+//
+//    public void setHeatMatRequired(boolean heatMatRequired) {
+//        this.heatMatRequired = heatMatRequired;
+//    }
+//
+//    public int getHeatMatTemp() {
+//        return heatMatTemp;
+//    }
+//
+//    public void setHeatMatTemp(int heatMatTemp) {
+//        this.heatMatTemp = heatMatTemp;
+//    }
+//
+//    public boolean isPotMoveOnUp() {
+//        return potMoveOnUp;
+//    }
+//
+//    public void setPotMoveOnUp(boolean potMoveOnUp) {
+//        this.potMoveOnUp = potMoveOnUp;
+//    }
+//
+//    public int getSeedsPerUnit() {
+//        return seedsPerUnit;
+//    }
+//
+//    public void setSeedsPerUnit(int seedsPerUnit) {
+//        this.seedsPerUnit = seedsPerUnit;
+//    }
+//
+//    public float getSeedsPerDirectFoot() {
+//        return seedsPerDirectFoot;
+//    }
+//
+//    public void setSeedsPerDirectFoot(float seedsPerDirectFoot) {
+//        this.seedsPerDirectFoot = seedsPerDirectFoot;
+//    }
+//
+//    public float getSeedPerTray() {
+//        return seedPerTray;
+//    }
+//
+//    public void setSeedPerTray(float seedPerTray) {
+//        this.seedPerTray = seedPerTray;
+//    }
+//
+//    public String getSeedUnit() {
+//        return seedUnit;
+//    }
+//
+//    public void setSeedUnit(String seedUnit) {
+//        this.seedUnit = seedUnit;
+//    }
 
 
 

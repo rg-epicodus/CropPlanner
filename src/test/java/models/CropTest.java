@@ -38,7 +38,19 @@ public class CropTest {
         assertTrue(testCrop.getCropId() == 1234);
     }
 
+    @Test
+    public void testGetCropName_Cucumber() {
+        Crop testCrop = setupNewCrop();
+        testCrop.setCropName("Cucumber");
+        assertTrue(testCrop.getCropName().equals("Cucumber"));
+    }
 
+    @Test
+    public void testSetCropName_Cucumber() {
+        Crop testCrop = setupNewCrop();
+        testCrop.setCropName("Cucumber");
+        assertTrue(testCrop.getCropName().equals("Cucumber"));
+    }
 
 
 
