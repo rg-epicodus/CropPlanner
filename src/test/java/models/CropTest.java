@@ -52,6 +52,20 @@ public class CropTest {
         assertTrue(testCrop.getCropName().equals("Cucumber"));
     }
 
+    @Test
+    public void testGetCropDescription_CucumberIsAVegetable() {
+        Crop testCrop = setupNewCrop();
+        testCrop.setCropDescription("Cucumber");
+        assertTrue(testCrop.getCropDescription().equals("Cucumber"));
+    }
+
+    @Test
+    public void testSetCropDescription_CucumberIsAVegetable() {
+        Crop testCrop = setupNewCrop();
+        testCrop.setCropDescription("Cucumber is a vegetable");
+        assertTrue(testCrop.getCropDescription().equals("Cucumber is a vegetable"));
+    }
+
 
 
 
