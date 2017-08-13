@@ -76,13 +76,13 @@ public class Crop {
         this.cropId = cropId;
     }
 
-//    public String getCropName() {
-//        return cropName;
-//    }
-//
-//    public void setCropName(String cropName) {
-//        this.cropName = cropName;
-//    }
+    public String getCropName() {
+        return cropName;
+    }
+
+    public void setCropName(String cropName) {
+        this.cropName = cropName;
+    }
 //
 //    public String getCropDescription() {
 //        return cropDescription;

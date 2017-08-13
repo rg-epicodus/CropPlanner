@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a255fdff-65ad-4faa-b04d-cdaf3b72bd31" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/models/Crop.java" afterPath="$PROJECT_DIR$/src/main/java/models/Crop.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/models/CropTest.java" afterPath="$PROJECT_DIR$/src/test/java/models/CropTest.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -35,13 +34,17 @@
       <file leaf-file-name="Crop.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/models/Crop.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="267" column="55" lean-forward="true" selection-start-line="267" selection-start-column="55" selection-end-line="267" selection-end-column="55" />
+            <state relative-caret-position="112">
+              <caret line="69" column="0" lean-forward="true" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
               <folding>
                 <element signature="e#2252#2253#0" expanded="true" />
                 <element signature="e#2281#2282#0" expanded="true" />
                 <element signature="e#2322#2323#0" expanded="true" />
                 <element signature="e#2358#2359#0" expanded="true" />
+                <element signature="e#2393#2394#0" expanded="true" />
+                <element signature="e#2424#2425#0" expanded="true" />
+                <element signature="e#2472#2473#0" expanded="true" />
+                <element signature="e#2512#2513#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -50,8 +53,8 @@
       <file leaf-file-name="CropTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/models/CropTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="177">
-              <caret line="40" column="9" lean-forward="true" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
+            <state relative-caret-position="192">
+              <caret line="43" column="16" lean-forward="false" selection-start-line="43" selection-start-column="16" selection-end-line="43" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -467,7 +470,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.CropTest.testGetCropName_Cucumber">
+  <component name="RunManager" selected="JUnit.CropTest">
     <configuration name="CropTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -657,8 +660,8 @@
     </list>
     <recent_temporary>
       <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.CropTest.testGetCropName_Cucumber" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.CropTest" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.CropTest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.CropTest.testGetCropName_Cucumber" />
         <item index="2" class="java.lang.String" itemvalue="JUnit.CropTest.testSetCropId_1234" />
         <item index="3" class="java.lang.String" itemvalue="JUnit.CropTest.testGetCropId_1234" />
       </list>
@@ -688,6 +691,9 @@
       <configuration name="CropTest" configurationId="JUnit" />
     </history-entry>
     <history-entry file="CropTest - 2017.08.12 at 21h 46m 03s.xml">
+      <configuration name="CropTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CropTest - 2017.08.12 at 21h 59m 04s.xml">
       <configuration name="CropTest" configurationId="JUnit" />
     </history-entry>
     <history-entry file="CropTest_testGetCropId_1234 - 2017.08.12 at 21h 43m 58s.xml">
@@ -725,7 +731,7 @@
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -809,21 +815,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/models/Crop.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="267" column="55" lean-forward="true" selection-start-line="267" selection-start-column="55" selection-end-line="267" selection-end-column="55" />
+        <state relative-caret-position="112">
+          <caret line="69" column="0" lean-forward="true" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
           <folding>
             <element signature="e#2252#2253#0" expanded="true" />
             <element signature="e#2281#2282#0" expanded="true" />
             <element signature="e#2322#2323#0" expanded="true" />
             <element signature="e#2358#2359#0" expanded="true" />
+            <element signature="e#2393#2394#0" expanded="true" />
+            <element signature="e#2424#2425#0" expanded="true" />
+            <element signature="e#2472#2473#0" expanded="true" />
+            <element signature="e#2512#2513#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/models/CropTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="40" column="9" lean-forward="true" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
+        <state relative-caret-position="192">
+          <caret line="43" column="16" lean-forward="false" selection-start-line="43" selection-start-column="16" selection-end-line="43" selection-end-column="16" />
           <folding />
         </state>
       </provider>
