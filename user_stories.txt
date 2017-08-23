@@ -1,0 +1,15 @@
+as a user I want to see all crops i have planted
+as a user I want to see an individual crop
+as a user I can select an individual crop and see a variety of details on that crop such as variety/days to maturity/estimated harvest date
+as a user I want to see which crops are part of a current planting
+as a user I want to see which crops are part of a previous planting
+as a user I want to be able to leave notes about an individual crop 
+as a user I want to be able to see all notes about a crop
+as a user I want to be able to add a crop to the database
+as a user I want to be able to delete crop items
+as a user, I want the ability to update crop item details
+as a user, I want to be able to see the date i should plant the crop
+a user can sort/filter crops and plantings to help decide what to plant next
+as a user I can enter in my zip code and see what hardiness zone I am in
+as a user I can see what requirements are to have a certain number of crops ready by a certain date for harvest
+as a user I can see what crop family to plant next after I harvest the current crop
